@@ -168,5 +168,3 @@ This software is provided as-is with no warranty whatsoever. Apple could do thin
 I'm a huge fan of Apple and the work that they do. Siri is a very cool feature and I'm pretty excited to explore it and add functionality. Please refrain from using this software for anything malicious.
 
 Also, this is my first project done in Ruby. Please don't be too critical of my code.
-
-(removeme)
