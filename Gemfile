@@ -3,6 +3,7 @@ source :gemcutter
 gem 'CFPropertyList'
 gem 'eventmachine'
 gem 'uuidtools'
+gem 'foreman'
 
 # load plugins
 require 'yaml'
