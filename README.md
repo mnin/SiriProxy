@@ -105,7 +105,7 @@ Here's some quick(-ish) steps on generating the fake CA and Guzzoni cert (on a M
   
   * CA certificate filename: hit enter, it will create a "demoCA" folder
   * Enter PEM pass phrase: give it something 4+ characters that you'll remember. Doesn't need to be complicated
-  * Information (Country Name, State Name, etc): Just enter whatever. It's not important
+  * Information (Country Name, State Name, etc): Just enter whatever. It's not important. Don't forget an e-mail address
   * Common Name: For the CA, this can be whatever. For the guzzoni certificate, it MUST be: "guzzoni.apple.com"
 
 4. Type:
